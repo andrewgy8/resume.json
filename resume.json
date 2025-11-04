@@ -32,17 +32,8 @@
       "name": "Primer",
       "position": "Engineering Manager - Financial Operations",
       "url": "https://primer.io",
-      "startDate": "2025-02-01",
-      "summary": "Leading payments management engineering team at Primer, focusing on core platform systems powering merchant-facing products with emphasis on scalability, performance, and data-driven insights.",
-      "highlights": []
-    },
-    {
-      "name": "Primer",
-      "position": "Engineering Manager - Payments Observability",
-      "url": "https://primer.io",
       "startDate": "2023-08-01",
-      "endDate": "2025-02-01",
-      "summary": "Led payments observability engineering team at Primer, working remotely to improve monitoring and insights capabilities.",
+      "summary": "Leading payments management engineering team at Primer, focusing on core platform systems powering merchant-facing products with emphasis on scalability, performance, and data-driven insights.",
       "highlights": []
     },
     {
@@ -60,9 +51,9 @@
     },
     {
       "name": "Mercadona Tech",
-      "position": "Tech Lead - Last Mile Delivery",
+      "position": "Software Engineer + Tech Lead - Last Mile Delivery",
       "url": "https://mercadona.es",
-      "startDate": "2020-09-01",
+      "startDate": "2018-04-01",
       "endDate": "2021-07-01",
       "summary": "As part of the engineering team, I designed and scaled critical systems to support high-growth e-commerce operations and logistics. My work enabled the company to save significant costs, handle rapid demand surges, and establish a more resilient technical foundation.",
       "highlights": [
@@ -72,15 +63,6 @@
         "Migrated interservice communication from brittle HTTP to resilient async processes, while also setting company-wide publishing and subscribing standards.",
         "Optimized e-commerce platform performance, helping all API endpoints consistently meet a 250ms SLO, a critical achievement during COVID-19 quarantines when online grocery ordering demand spiked dramatically."
       ]
-    },
-    {
-      "name": "Mercadona Tech",
-      "position": "Software Engineer",
-      "url": "https://mercadona.es",
-      "startDate": "2018-04-01",
-      "endDate": "2020-09-01",
-      "summary": "Software Engineer at Mercadona Tech in Valencia, Spain.",
-      "highlights": []
     },
     {
       "name": "Solaris Offgrid",
@@ -170,11 +152,7 @@
         "Web APIs",
         "Docker",
         "PostgreSQL",
-        "SQLite",
-        "CouchDB",
         "Elasticsearch",
-        "Kafka",
-        "CockroachDB",
         "DynamoDB",
         "Google Pub/Sub",
         "Google BigQuery",
@@ -219,18 +197,17 @@
     {
       "name": "Outdoor Activities",
       "keywords": [
-        "Surfing"
+        "Surfing",
+        "Cycling"
       ]
     }
   ],
   "references": [
     {
-      "name": "Miquel Torres Barcelo",
-      "reference": "Former Manager and Mentor at Mercadona Tech"
+      "name": "Miquel Torres Barcelo"
     },
     {
-      "name": "Siten Mandalia",
-      "reference": "Former CEO at SolarisOffgrid"
+      "name": "Siten Mandalia"
     }
   ]
 }
