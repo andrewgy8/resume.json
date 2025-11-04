@@ -32,8 +32,7 @@
       "name": "Primer",
       "position": "Engineering Manager - Financial Operations",
       "url": "https://primer.io",
-      "startDate": "2025-02",
-      "endDate": "",
+      "startDate": "2025-02-01",
       "summary": "Leading payments management engineering team at Primer, focusing on core platform systems powering merchant-facing products with emphasis on scalability, performance, and data-driven insights.",
       "highlights": []
     },
@@ -42,7 +41,7 @@
       "position": "Engineering Manager - Payments Observability",
       "url": "https://primer.io",
       "startDate": "2023-08",
-      "endDate": "2025-02",
+      "endDate": "2025-02-01",
       "summary": "Led payments observability engineering team at Primer, working remotely to improve monitoring and insights capabilities.",
       "highlights": []
     },
@@ -50,7 +49,7 @@
       "name": "Primer",
       "position": "Tech Lead - Observability",
       "url": "https://primer.io",
-      "startDate": "2021-11",
+      "startDate": "2021-11-01",
       "endDate": "2023-08",
       "summary": "At Primer, I worked on core platform systems powering merchant-facing products, with a focus on scalability, performance, and data-driven insights. My contributions modernized key dashboard experiences, improved developer and customer experience, and unlocked new business opportunities.",
       "highlights": [
@@ -63,8 +62,8 @@
       "name": "Mercadona Tech",
       "position": "Tech Lead - Last Mile Delivery",
       "url": "",
-      "startDate": "2020-09",
-      "endDate": "2021-07",
+      "startDate": "2020-09-01",
+      "endDate": "2021-07-01",
       "summary": "As part of the engineering team, I designed and scaled critical systems to support high-growth e-commerce operations and logistics. My work enabled the company to save significant costs, handle rapid demand surges, and establish a more resilient technical foundation.",
       "highlights": [
         "Built a custom vehicle routing engine that optimized ~5,000 deliveries and 100+ vehicles in under 5 minutes, saving ~€100k annually and enabling future extensions such as multi-warehouse routing.",
@@ -78,7 +77,7 @@
       "name": "Mercadona Tech",
       "position": "Software Engineer",
       "url": "",
-      "startDate": "2018-04",
+      "startDate": "2018-04-01",
       "endDate": "2020-09",
       "summary": "Software Engineer at Mercadona Tech in Valencia, Spain.",
       "highlights": []
@@ -87,8 +86,8 @@
       "name": "Solaris Offgrid",
       "position": "Software Engineer",
       "url": "",
-      "startDate": "2016-08",
-      "endDate": "2018-04",
+      "startDate": "2016-08-01",
+      "endDate": "2018-04-01",
       "summary": "Lead development team to new features, products and tooling at Solaris Offgrid.",
       "highlights": [
         "Lead development team to new features, products and tooling",
@@ -106,8 +105,8 @@
       "name": "Principal",
       "position": "Web Developer",
       "url": "",
-      "startDate": "2015-08",
-      "endDate": "2016-08",
+      "startDate": "2015-08-01",
+      "endDate": "2016-08-01",
       "summary": "Freelance web development work in Washington D.C. Metro Area.",
       "highlights": [
         "Develop and maintain web pages for businesses",
@@ -121,8 +120,8 @@
       "organization": "Django Girls",
       "position": "Volunteer",
       "url": "",
-      "startDate": "2014-01",
-      "endDate": "2016-01",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
       "summary": "Advisory board member for Mission to Heal in Washington D.C. Metro Area.",
       "highlights": [
         "Manage donation chain for upcoming trips",
@@ -145,7 +144,7 @@
   "awards": [
     {
       "title": "Thomas V. Marsho & Martin Schwartz Memorial Fund Award",
-      "date": "",
+      "date": "2015-06-01",
       "awarder": "University of Maryland Baltimore County",
       "summary": ""
     }
