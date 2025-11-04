@@ -40,7 +40,7 @@
       "name": "Primer",
       "position": "Engineering Manager - Payments Observability",
       "url": "https://primer.io",
-      "startDate": "2023-08",
+      "startDate": "2023-08-01",
       "endDate": "2025-02-01",
       "summary": "Led payments observability engineering team at Primer, working remotely to improve monitoring and insights capabilities.",
       "highlights": []
@@ -50,7 +50,7 @@
       "position": "Tech Lead - Observability",
       "url": "https://primer.io",
       "startDate": "2021-11-01",
-      "endDate": "2023-08",
+      "endDate": "2023-08-01",
       "summary": "At Primer, I worked on core platform systems powering merchant-facing products, with a focus on scalability, performance, and data-driven insights. My contributions modernized key dashboard experiences, improved developer and customer experience, and unlocked new business opportunities.",
       "highlights": [
         "Rebuilt the Payments List page (one of the most used areas of the merchant dashboard), migrating queries from SQL to Elasticsearch + Kafka. Reduced query latency from ~30 seconds to <500ms across millions of payments with 100+ searchable attributes. Enhanced UX by enabling search and filtering on any attribute (e.g., customer name, amount, currency, address).",
@@ -61,7 +61,7 @@
     {
       "name": "Mercadona Tech",
       "position": "Tech Lead - Last Mile Delivery",
-      "url": "",
+      "url": "https://mercadona.es",
       "startDate": "2020-09-01",
       "endDate": "2021-07-01",
       "summary": "As part of the engineering team, I designed and scaled critical systems to support high-growth e-commerce operations and logistics. My work enabled the company to save significant costs, handle rapid demand surges, and establish a more resilient technical foundation.",
@@ -76,9 +76,9 @@
     {
       "name": "Mercadona Tech",
       "position": "Software Engineer",
-      "url": "",
+      "url": "https://mercadona.es",
       "startDate": "2018-04-01",
-      "endDate": "2020-09",
+      "endDate": "2020-09-01",
       "summary": "Software Engineer at Mercadona Tech in Valencia, Spain.",
       "highlights": []
     },
@@ -119,7 +119,7 @@
     {
       "organization": "Django Girls",
       "position": "Volunteer",
-      "url": "",
+      "url": "https://djangogirls.org/en/",
       "startDate": "2014-01-01",
       "endDate": "2016-01-01",
       "summary": "Advisory board member for Mission to Heal in Washington D.C. Metro Area.",
@@ -153,8 +153,8 @@
     {
       "name": "The histone methyltransferases Set5 and Set1 have overlapping functions in gene silencing and telomere maintenance",
       "publisher": "Epigenetics",
-      "releaseDate": "2016-12",
-      "url": "",
+      "releaseDate": "2016-12-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27911222/",
       "summary": "Research publication from work at Green Lab UMBC"
     }
   ],
