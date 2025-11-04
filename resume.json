@@ -5,7 +5,7 @@
     "image": "",
     "email": "andrewgy8@gmail.com",
     "phone": "",
-    "url": "https://www.linkedin.com/in/andrew-graham-yooll--623771141",
+    "url": "https://andrew.grahamyooll.com",
     "summary": "Hi there! I'm Andrew, living in Valencia, Spain. I specialize in optimizing distributed computing systems and streamlining web APIs to deliver efficient, scalable solutions. In my free time I enjoy surfing, tackling home improvement projects, tinkering with gadgets, and contributing to open-source initiatives.",
     "location": {
       "address": "",
@@ -19,13 +19,18 @@
         "network": "LinkedIn",
         "username": "andrew-graham-yooll--623771141",
         "url": "https://www.linkedin.com/in/andrew-graham-yooll--623771141"
+      },
+      {
+        "network": "Github",
+        "username": "andrewgy8",
+        "url": "https://github.com/andrewgy8"
       }
     ]
   },
   "work": [
     {
       "name": "Primer",
-      "position": "Engineering Manager - Payments Management",
+      "position": "Engineering Manager - Financial Operations",
       "url": "https://primer.io",
       "startDate": "2025-02",
       "endDate": "",
@@ -55,17 +60,8 @@
       ]
     },
     {
-      "name": "Primer",
-      "position": "Senior Software Engineer",
-      "url": "https://primer.io",
-      "startDate": "2021-08",
-      "endDate": "2021-11",
-      "summary": "Senior Software Engineer at Primer in Valencia, Spain.",
-      "highlights": []
-    },
-    {
       "name": "Mercadona Tech",
-      "position": "Tech Lead and Engineering Manager - Last Mile Delivery",
+      "position": "Tech Lead - Last Mile Delivery",
       "url": "",
       "startDate": "2020-09",
       "endDate": "2021-07",
@@ -118,25 +114,12 @@
         "Continual maintenance of servers and code base",
         "Find balance with clients desires and best user experiences"
       ]
-    },
-    {
-      "name": "Rembrandt Builders",
-      "position": "Project Manager",
-      "url": "",
-      "startDate": "2008-07",
-      "endDate": "2012-08",
-      "summary": "Managed multi-million dollar building projects in Washington D.C. Metro Area.",
-      "highlights": [
-        "Managed multi-million dollar building projects",
-        "Expedited and facilitated construction of custom luxury homes",
-        "Clearly communicate with team members and clients"
-      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Mission to Heal",
-      "position": "Advisory Board Member",
+      "organization": "Django Girls",
+      "position": "Volunteer",
       "url": "",
       "startDate": "2014-01",
       "endDate": "2016-01",
@@ -144,19 +127,6 @@
       "highlights": [
         "Manage donation chain for upcoming trips",
         "Coordinate transport and relations with in-country hosts"
-      ]
-    },
-    {
-      "organization": "Green Lab UMBC",
-      "position": "Researcher",
-      "url": "",
-      "startDate": "2013-01",
-      "endDate": "2015-08",
-      "summary": "Design and perform novel experimental genetics research at University of Maryland Baltimore County.",
-      "highlights": [
-        "Design and perform novel experimental genetics research",
-        "Document all research",
-        "Published in the scientific journal, Epigenetics, December, 2016"
       ]
     }
   ],
@@ -168,27 +138,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2013",
       "endDate": "2016",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Montgomery College",
-      "url": "https://www.montgomerycollege.edu/",
-      "area": "General Studies",
-      "studyType": "Associate's degree",
-      "startDate": "2012",
-      "endDate": "2015",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "The George Washington University",
-      "url": "https://www.gwu.edu/",
-      "area": "",
-      "studyType": "",
-      "startDate": "2008",
-      "endDate": "2009",
-      "score": "",
+      "score": "4.0 - Summa Cum Laude",
       "courses": []
     }
   ],
@@ -198,15 +148,8 @@
       "date": "",
       "awarder": "University of Maryland Baltimore County",
       "summary": ""
-    },
-    {
-      "title": "Summa cum laude",
-      "date": "2016",
-      "awarder": "University of Maryland Baltimore County",
-      "summary": "Graduated with highest honors"
     }
   ],
-  "certificates": [],
   "publications": [
     {
       "name": "The histone methyltransferases Set5 and Set1 have overlapping functions in gene silencing and telomere maintenance",
@@ -214,13 +157,6 @@
       "releaseDate": "2016-12",
       "url": "",
       "summary": "Research publication from work at Green Lab UMBC"
-    },
-    {
-      "name": "Install Virtual box on Kali Linux OS",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": "Technical publication or tutorial"
     }
   ],
   "skills": [
@@ -266,6 +202,10 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "\"Can Get By\" Fluency"
     }
   ],
   "interests": [
@@ -284,6 +224,14 @@
       ]
     }
   ],
-  "references": [],
-  "projects": []
+  "references": [
+    {
+      "name": "Miquel Torres Barcelo",
+      "reference": "Former Manager and Mentor at Mercadona Tech"
+    },
+    {
+      "name": "Siten Mandalia",
+      "reference": "Former CEO at SolarisOffgrid"
+    }
+  ]
 }
