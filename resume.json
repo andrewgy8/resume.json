@@ -2,9 +2,9 @@
   "basics": {
     "name": "Andrew Graham-Yooll",
     "label": "Having fun working with Product Engineering teams",
-    "image": "",
+    "image": "https://gravatar.com/avatar/fcefc7905799bde89abbbb583d8ac1cc79deff87be5e4e79de2f8961d4b0f3e5?v=1759303657000&size=256&d=initials",
     "email": "andrewgy8@gmail.com",
-    "phone": "",
+    "phone": "+34644125677",
     "url": "https://andrew.grahamyooll.com",
     "summary": "Hi there! I'm Andrew, living in Valencia, Spain. I specialize in optimizing distributed computing systems and streamlining web APIs to deliver efficient, scalable solutions. In my free time I enjoy surfing, tackling home improvement projects, tinkering with gadgets, and contributing to open-source initiatives.",
     "location": {
@@ -85,7 +85,6 @@
     {
       "name": "Solaris Offgrid",
       "position": "Software Engineer",
-      "url": "",
       "startDate": "2016-08-01",
       "endDate": "2018-04-01",
       "summary": "Lead development team to new features, products and tooling at Solaris Offgrid.",
@@ -99,12 +98,12 @@
         "Communicate with on the ground staff to solve tech issues",
         "Prioritize issues and features brought forth by staff to better integrate technology into day-to-day business operations",
         "Conduct development meetings and debriefing sessions as it pertains to our Agile development process"
-      ]
+      ],
+      "url": "https://www.masunga.tech/"
     },
     {
       "name": "Principal",
       "position": "Web Developer",
-      "url": "",
       "startDate": "2015-08-01",
       "endDate": "2016-08-01",
       "summary": "Freelance web development work in Washington D.C. Metro Area.",
@@ -112,7 +111,8 @@
         "Develop and maintain web pages for businesses",
         "Continual maintenance of servers and code base",
         "Find balance with clients desires and best user experiences"
-      ]
+      ],
+      "url": "https://andrew.grahamyooll.com"
     }
   ],
   "volunteer": [
