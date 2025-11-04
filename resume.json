@@ -1,0 +1,289 @@
+{
+  "basics": {
+    "name": "Andrew Graham-Yooll",
+    "label": "Having fun working with Product Engineering teams",
+    "image": "",
+    "email": "andrewgy8@gmail.com",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/andrew-graham-yooll--623771141",
+    "summary": "Hi there! I'm Andrew, living in Valencia, Spain. I specialize in optimizing distributed computing systems and streamlining web APIs to deliver efficient, scalable solutions. In my free time I enjoy surfing, tackling home improvement projects, tinkering with gadgets, and contributing to open-source initiatives.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Valencia",
+      "countryCode": "ES",
+      "region": "Valencian Community"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "andrew-graham-yooll--623771141",
+        "url": "https://www.linkedin.com/in/andrew-graham-yooll--623771141"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Primer",
+      "position": "Engineering Manager - Payments Management",
+      "url": "https://primer.io",
+      "startDate": "2025-02",
+      "endDate": "",
+      "summary": "Leading payments management engineering team at Primer, focusing on core platform systems powering merchant-facing products with emphasis on scalability, performance, and data-driven insights.",
+      "highlights": []
+    },
+    {
+      "name": "Primer",
+      "position": "Engineering Manager - Payments Observability",
+      "url": "https://primer.io",
+      "startDate": "2023-08",
+      "endDate": "2025-02",
+      "summary": "Led payments observability engineering team at Primer, working remotely to improve monitoring and insights capabilities.",
+      "highlights": []
+    },
+    {
+      "name": "Primer",
+      "position": "Tech Lead - Observability",
+      "url": "https://primer.io",
+      "startDate": "2021-11",
+      "endDate": "2023-08",
+      "summary": "At Primer, I worked on core platform systems powering merchant-facing products, with a focus on scalability, performance, and data-driven insights. My contributions modernized key dashboard experiences, improved developer and customer experience, and unlocked new business opportunities.",
+      "highlights": [
+        "Rebuilt the Payments List page (one of the most used areas of the merchant dashboard), migrating queries from SQL to Elasticsearch + Kafka. Reduced query latency from ~30 seconds to <500ms across millions of payments with 100+ searchable attributes. Enhanced UX by enabling search and filtering on any attribute (e.g., customer name, amount, currency, address).",
+        "Led migration from DynamoDB to CockroachDB for all dashboard databases, delivering multi-regional support, more efficient querying, and a significantly improved developer experience aligned with business requirements.",
+        "Built the backend for an observability platform using Firebolt + CubeJS, enabling merchants to access rich charts and insights into payment performance. This became a commercial product line, generating hundreds of thousands in revenue."
+      ]
+    },
+    {
+      "name": "Primer",
+      "position": "Senior Software Engineer",
+      "url": "https://primer.io",
+      "startDate": "2021-08",
+      "endDate": "2021-11",
+      "summary": "Senior Software Engineer at Primer in Valencia, Spain.",
+      "highlights": []
+    },
+    {
+      "name": "Mercadona Tech",
+      "position": "Tech Lead and Engineering Manager - Last Mile Delivery",
+      "url": "",
+      "startDate": "2020-09",
+      "endDate": "2021-07",
+      "summary": "As part of the engineering team, I designed and scaled critical systems to support high-growth e-commerce operations and logistics. My work enabled the company to save significant costs, handle rapid demand surges, and establish a more resilient technical foundation.",
+      "highlights": [
+        "Built a custom vehicle routing engine that optimized ~5,000 deliveries and 100+ vehicles in under 5 minutes, saving ~€100k annually and enabling future extensions such as multi-warehouse routing.",
+        "Developed and maintained Relé, an internal Python library leveraging Google Pub/Sub, which allowed seamless scaling of the e-commerce platform across multiple teams. It improved developer onboarding and reduced integration friction across services.",
+        "Designed and deployed an ETL platform using Relé, reducing monthly costs by thousands of euros while enabling reliable ingestion of data into Google BigQuery for cross-product analytics.",
+        "Migrated interservice communication from brittle HTTP to resilient async processes, while also setting company-wide publishing and subscribing standards.",
+        "Optimized e-commerce platform performance, helping all API endpoints consistently meet a 250ms SLO, a critical achievement during COVID-19 quarantines when online grocery ordering demand spiked dramatically."
+      ]
+    },
+    {
+      "name": "Mercadona Tech",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2018-04",
+      "endDate": "2020-09",
+      "summary": "Software Engineer at Mercadona Tech in Valencia, Spain.",
+      "highlights": []
+    },
+    {
+      "name": "Solaris Offgrid",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2016-08",
+      "endDate": "2018-04",
+      "summary": "Lead development team to new features, products and tooling at Solaris Offgrid.",
+      "highlights": [
+        "Lead development team to new features, products and tooling",
+        "Launch and maintain mobile and web applications",
+        "Focus on scaling from 100 to 100K+ clients",
+        "Containerized (Docker) all aspects of our software",
+        "Set up and optimize all our Continuous integration and continuous deployment strategies",
+        "Manage database persistence and integrity (PostgreSQL, SQLite and CouchDB)",
+        "Communicate with on the ground staff to solve tech issues",
+        "Prioritize issues and features brought forth by staff to better integrate technology into day-to-day business operations",
+        "Conduct development meetings and debriefing sessions as it pertains to our Agile development process"
+      ]
+    },
+    {
+      "name": "Principal",
+      "position": "Web Developer",
+      "url": "",
+      "startDate": "2015-08",
+      "endDate": "2016-08",
+      "summary": "Freelance web development work in Washington D.C. Metro Area.",
+      "highlights": [
+        "Develop and maintain web pages for businesses",
+        "Continual maintenance of servers and code base",
+        "Find balance with clients desires and best user experiences"
+      ]
+    },
+    {
+      "name": "Rembrandt Builders",
+      "position": "Project Manager",
+      "url": "",
+      "startDate": "2008-07",
+      "endDate": "2012-08",
+      "summary": "Managed multi-million dollar building projects in Washington D.C. Metro Area.",
+      "highlights": [
+        "Managed multi-million dollar building projects",
+        "Expedited and facilitated construction of custom luxury homes",
+        "Clearly communicate with team members and clients"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mission to Heal",
+      "position": "Advisory Board Member",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2016-01",
+      "summary": "Advisory board member for Mission to Heal in Washington D.C. Metro Area.",
+      "highlights": [
+        "Manage donation chain for upcoming trips",
+        "Coordinate transport and relations with in-country hosts"
+      ]
+    },
+    {
+      "organization": "Green Lab UMBC",
+      "position": "Researcher",
+      "url": "",
+      "startDate": "2013-01",
+      "endDate": "2015-08",
+      "summary": "Design and perform novel experimental genetics research at University of Maryland Baltimore County.",
+      "highlights": [
+        "Design and perform novel experimental genetics research",
+        "Document all research",
+        "Published in the scientific journal, Epigenetics, December, 2016"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland Baltimore County",
+      "url": "https://www.umbc.edu/",
+      "area": "Biology, General",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Montgomery College",
+      "url": "https://www.montgomerycollege.edu/",
+      "area": "General Studies",
+      "studyType": "Associate's degree",
+      "startDate": "2012",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The George Washington University",
+      "url": "https://www.gwu.edu/",
+      "area": "",
+      "studyType": "",
+      "startDate": "2008",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Thomas V. Marsho & Martin Schwartz Memorial Fund Award",
+      "date": "",
+      "awarder": "University of Maryland Baltimore County",
+      "summary": ""
+    },
+    {
+      "title": "Summa cum laude",
+      "date": "2016",
+      "awarder": "University of Maryland Baltimore County",
+      "summary": "Graduated with highest honors"
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "The histone methyltransferases Set5 and Set1 have overlapping functions in gene silencing and telomere maintenance",
+      "publisher": "Epigenetics",
+      "releaseDate": "2016-12",
+      "url": "",
+      "summary": "Research publication from work at Green Lab UMBC"
+    },
+    {
+      "name": "Install Virtual box on Kali Linux OS",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Technical publication or tutorial"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Expert",
+      "keywords": [
+        "Python",
+        "Testing",
+        "Open-Source Development",
+        "Distributed Systems",
+        "Web APIs",
+        "Docker",
+        "PostgreSQL",
+        "SQLite",
+        "CouchDB",
+        "Elasticsearch",
+        "Kafka",
+        "CockroachDB",
+        "DynamoDB",
+        "Google Pub/Sub",
+        "Google BigQuery",
+        "Firebolt",
+        "CubeJS"
+      ]
+    },
+    {
+      "name": "Engineering Leadership",
+      "level": "Advanced",
+      "keywords": [
+        "Team Management",
+        "Technical Leadership",
+        "Engineering Management",
+        "Agile Development",
+        "CI/CD",
+        "System Architecture",
+        "Performance Optimization",
+        "Scalability"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology & Making",
+      "keywords": [
+        "Open-source contributions",
+        "Tinkering with gadgets",
+        "Home improvement projects"
+      ]
+    },
+    {
+      "name": "Outdoor Activities",
+      "keywords": [
+        "Surfing"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}
